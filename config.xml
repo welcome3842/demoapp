@@ -1,16 +1,16 @@
 <?xml version='1.0' encoding='utf-8'?>
     <widget xmlns:gap="http://phonegap.com/ns/1.0" 
     xmlns="http://www.w3.org/ns/widgets" 
-    id="com.dealtargetweb.demo" 
+    id="com.royalbotany.com" 
     version="2.0.0">
 
-        <name>DealsTarget</name>
+        <name>Royal Botany</name>
         <description>
-            Deals,coupon and product
+            Royal Botany Study Center
         </description>
-        <author email="rvgupta444@gmail.com"
+        <author email="jeewak.kumar@gmail.com"
         href="http://cordova.io">
-           Orangespike  team
+           Royal Botany
         </author>
     
     	
